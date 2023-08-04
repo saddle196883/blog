@@ -48,12 +48,12 @@ $$
 $$
 $$
 \begin{aligned}
- \int_0^\infty&
-    \frac{\sin (x)}{x}
+ \int_0^\infty
+    \frac{\sin (x)}{x} &
     \frac{\sin (x/3)}{x/3}
     \cdots
     \frac{\sin (x/15)}{x/15}
-    dx\\&=
+    dx\\\ = &
     \frac{467807924713440738696537864469}{935615849440640907310521750000}\pi
 \end{aligned}
 $$
