@@ -29,7 +29,7 @@ This is some $\KaTeX$: $(\forall X)(\exists!f:\emptyset\to X)$
 
 Here is some more $\KaTeX$, in display mode:
 $$
-    \int_0^\infty \frac{\sin (x)}{x} dx=\frac{pi}{2}
+    \int_0^\infty \frac{\sin (x)}{x} dx=\frac{\pi}{2}
 $$
 $$
     \int_0^\infty
