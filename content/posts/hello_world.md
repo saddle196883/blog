@@ -19,6 +19,7 @@ my own taste though...
 
 The last thing I need to set up is a comment section using
 [utterances](https://utteranc.es/), but this will take a while to get going.
+(Edit: IT WORKS!)
 
 ---
 
